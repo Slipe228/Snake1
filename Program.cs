@@ -11,7 +11,7 @@ namespace Zmeika2
     class Program
     {
         private const int MapWidth = 15;
-        private const int MapHeight = 20;
+        private const int MapHeight = 15;
 
         private const int ScreenWidth = MapWidth * 3;
         private const int ScreenHeight = MapHeight * 3;
@@ -153,3 +153,4 @@ namespace Zmeika2
         }
     }
 }
+
